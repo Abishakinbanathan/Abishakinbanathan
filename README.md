@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abishak Inbanathan</h1>
 <h3 align="center">A passionate frontend developer using ReactJS</h3>
 
-- 🔭 I’m currently working on **Innovation lab**
+- 🔭 I’m currently working on **Innovation lab in TCS**
 
 - 🌱 I’m currently learning **MERN Stack**
 
